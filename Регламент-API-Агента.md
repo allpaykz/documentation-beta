@@ -22,17 +22,17 @@
 
 ### WSDL ССЫЛКИ НА API
 
-1. Тестовая среда, полностью идентична продакшн среде.
-  * Агентское API Пополнение&Снятие **v1.0** (Устарело) - https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl
-  * Агентское API Пополнение&Снятие **v1.1** - https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.1?wsdl
-  * Агентское API только Пополнение (подходит для терминалов) - https://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl
+* Тестовая среда, полностью идентична продакшн среде.
+  * [Агентское API](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl) Пополнение&Снятие **v1.0** (Устарело/Deprecated)
+  * [Агентское API Пополнение&Снятие](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.1?wsdl) **v1.1**
+  * [Агентское API только Пополнение](https://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) (подходит для терминалов)
 
-2. Продакшн среда
-  * Агентское API Пополнение&Снятие **v1.0** (Устарело) - https://mfs.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl
-  * Агентское API Пополнение&Снятие **v1.1** - https://mfs.allpay.kz/allpay-public-soap/transaction-management/v1.1?wsdl
-  * Агентское API только Пополнение (подходит для терминалов) - https://mfs.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl
+* Продакшн среда
+  * [Агентское API Пополнение&Снятие](https://mfs.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl) **v1.0** (Устарело/Deprecated)
+  * [Агентское API Пополнение&Снятие](https://mfs.allpay.kz/allpay-public-soap/transaction-management/v1.1?wsdl) **v1.1**
+  * [Агентское API только Пополнение](https://mfs.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) (подходит для терминалов)
 
-3. Демо проект, реализация наших API - http://beta.allpay.kz/allpay-public-soap-demo/
+* Демо проект, реализация наших API - http://beta.allpay.kz/allpay-public-soap-demo/
 
 ### ПРИНЦИПЫ ВЗАИМОДЕЙСТВИЯ С ПС ALLPAY
 
