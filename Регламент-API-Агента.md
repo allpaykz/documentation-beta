@@ -14,8 +14,8 @@
 
 
 ### WSDL, ССЫЛКИ НА API И ДОКУМЕНТАЦИЯ
-   1. [API пополнения и снятия](https://github.com/allpaykz/documentation/wiki/API-%D0%9F%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
-   2. [API только пополнение](https://github.com/allpaykz/documentation/wiki/API-%D0%9F%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
+* [Документация API пополнения и снятия](https://github.com/allpaykz/documentation/wiki/API-%D0%9F%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-%D0%B8-%D0%A1%D0%BD%D1%8F%D1%82%D0%B8%D1%8F)
+* [Документация API только пополнение](https://github.com/allpaykz/documentation/wiki/API-%D0%9F%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
 
 * Тестовая среда, полностью идентична продакшн среде.
   * [Агентское API Пополнение&Снятие](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl) **v1.0** (Устарело/Deprecated)
