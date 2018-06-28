@@ -10,7 +10,7 @@
 2. [Какие виды интеграций у нас есть](Какие-виды-интеграций-у-нас-есть)
 3. [Как с нами связатьcя](Как-с-нами-связатьcя)
 4. [Java библиотеки и готовые API клиенты](https://github.com/allpaykz/allpay-public)
-5. Регламент API Агентам
+5. [Регламент API Агентам](https://github.com/allpaykz/documentation/wiki/%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82-API-%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%B0%D0%BC)
 6. [Регламент API Мерчантам](https://github.com/allpaykz/documentation/wiki/6.-%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82-API-%D0%9C%D0%B5%D1%80%D1%87%D0%B0%D0%BD%D1%82%D0%B0%D0%BC)
 7. Стартапам
 
