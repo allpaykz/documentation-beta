@@ -23,7 +23,7 @@
 ### WSDL ССЫЛКИ НА API
 
 * Тестовая среда, полностью идентична продакшн среде.
-  * [Агентское API](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl) Пополнение&Снятие **v1.0** (Устарело/Deprecated)
+  * [Агентское API Пополнение&Снятие](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.0?wsdl) **v1.0** (Устарело/Deprecated)
   * [Агентское API Пополнение&Снятие](https://beta.allpay.kz/allpay-public-soap/transaction-management/v1.1?wsdl) **v1.1**
   * [Агентское API только Пополнение](https://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) (подходит для терминалов)
 
