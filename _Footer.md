@@ -1,0 +1,15 @@
+#### Термины
+| Термин | Описание |
+| --- | --- |
+| СЭД | Система Электронных Денег Allpay |
+| Снятие | Снятие электронных денег с электронного кошелька |
+| Пополнение | Пополнение электронных денег на электронного кошелька |
+| Агент | Юридическое лицо или индивидуальный предприниматель, который    осуществляет пополнение и снятие электронных денег с кошельков клиентов allpay |
+| Мерчант | Юридическое лицо или индивидуальный предприниматель, принимающий электронные деньги allpay в качестве оплаты товаров и услуг |
+| Пользователь | Пользователь системы СЭД, владелец электронного кошелька и электронных денег |
+| Бэкенд Allpay | Информационная система, которая предоставляет API по протоколам HTTP[S] и SOAP |
+| Портал Allpay | Сайт Allpay, который предоставляет доступ к функционалу СЭД [beta](http://beta.allpay.kz/mfs/) и [prod](https://mfs.allpay.kz/mfs/) |
+| Агентское API | API для интеграции с Агентами. Предоставляет возможности для пополнения и снятия. Ссылка на [бету](http://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) и [прод](http://mfs.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl). Документация [здесь](https://github.com/allpaykz/allpay-public/blob/develop/allpay-public-soap/TerminalPayment.md) |
+| Webshop| Интеграция для мерчантов в стиле Paypal, демо версия [здесь](http://beta.allpay.kz/webshop-integration-rest/transactions.jsp) |
+| Мерчант API | Это Webshop. |
+| Allpay Public | Это ряд публичных проектов на [github](https://github.com/allpaykz/allpay-public), в которых опубликованы готовые API клиенты и библиотеки на языке Java |
