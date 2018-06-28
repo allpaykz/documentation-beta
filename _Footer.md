@@ -9,7 +9,7 @@
 | Пользователь | Пользователь системы СЭД, владелец электронного кошелька и электронных денег |
 | Бэкенд Allpay | Информационная система, которая предоставляет API по протоколам HTTP[S] и SOAP |
 | Портал Allpay | Сайт Allpay, который предоставляет доступ к функционалу СЭД [beta](http://beta.allpay.kz/mfs/) и [prod](https://mfs.allpay.kz/mfs/) |
-| Агентское API | API для интеграции с Агентами. Предоставляет возможности для пополнения и снятия. Ссылка на [бету](http://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) и [прод](http://mfs.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl). Документация [здесь](https://github.com/allpaykz/allpay-public/blob/develop/allpay-public-soap/TerminalPayment.md) |
+| Агентское API | API для интеграции с Агентами. Предоставляет возможности для пополнения и снятия. Ссылка на [бету](http://beta.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl) и [прод](http://mfs.allpay.kz/allpay-public-soap/cash-in-transaction-management/v1.1?wsdl). Документация [здесь](https://github.com/allpaykz/documentation/wiki/%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82-API-%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D0%B0) |
 | Webshop| Интеграция для мерчантов в стиле Paypal, демо версия [здесь](http://beta.allpay.kz/webshop-integration-rest/transactions.jsp) |
 | Мерчант API | Это Webshop. |
 | Allpay Public | Это ряд публичных проектов на [github](https://github.com/allpaykz/allpay-public), в которых опубликованы готовые API клиенты и библиотеки на языке Java |
